@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Крас](https://up.htmlacademy.ru/javascript/15/user/34655).
-* Наставник: `Неизвестно`.
+* Наставник: `Игорь Тараканов`.
 
 ---
 
